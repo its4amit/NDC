@@ -15,6 +15,8 @@ public class LoginPage extends Base {
 //	public void launchApllication() {
 //		launchUrl();
 //	}
+	
+//	when we use hooks in base class  there is no need to write code for launch url 
 
 	public void enterUserNameAndPass(String uname, String pass) {
 
